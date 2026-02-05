@@ -122,6 +122,19 @@ hlt
 ## Output
 <img width="2874" height="1701" alt="image" src="https://github.com/user-attachments/assets/4637151f-7771-47af-af30-77046814adb6" />
 
+## XOR of 8 bit numbers ALP
+```
+mov Ax,5782H
+mov Bx,23ABH
+xor Ax,Bx
+mov [4007H],Ax
+hlt
+```
+## Output
+<img width="2878" height="1713" alt="image" src="https://github.com/user-attachments/assets/368af72f-a812-4b79-a1d7-30e5b2c28fb7" />
+
+
+
 ## Result :
 The execution of ALP on fundamental arithmetic and logical operations is successfully completed.
 
